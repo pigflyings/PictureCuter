@@ -1,0 +1,4 @@
+将要切割是视频放在video文件中
+然后在VideoCuter.py中写入视频名称
+在切割完成后，使用Remove_duplicates.py去除重复图片（如果视频有卡帧情况）
+然后使用Sort.py重新排序（可用于整理训练集合）
