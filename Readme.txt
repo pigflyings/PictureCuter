@@ -2,3 +2,4 @@
 然后在VideoCuter.py中写入视频名称
 在切片完成后，使用Remove_duplicates.py去除重复图片（如果视频有卡帧情况）
 然后使用Sort.py重新排序（可用于整理训练集合）
+SilcePatchWorker.py用于将每个切片的部分按顺序拼凑到一张图片，可用于移动物体的识别
